@@ -1,6 +1,6 @@
 import sys
 
 def a():
-  print('ok!')
+  print('ok!!')
   print('Two')
   print('xx!!')
